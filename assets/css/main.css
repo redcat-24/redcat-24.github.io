@@ -1,0 +1,38 @@
+div.inner{
+    background-color: darkslategrey;
+}
+div.tile{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 250px;
+}
+div.tile img{
+    width: 100%;
+    height: auto;
+}
+div.tile:hover{
+    border: 1px solid #777;
+}
+div.desc{
+    padding: 15px;
+    text-align: center;
+}
+div.button{
+    margin: auto;
+    border: 1px solid greenyellow;
+    width: 150px;
+    background-color: greenyellow;
+    text-align: center;
+}
+div.button:hover{
+    background-color: rgb(0, 255, 0);
+}
+a.linkhandler{
+    color: grey;
+    text-decoration: none;
+}
+a.linkhandler:hover{
+    color:grey;
+    text-decoration: none;
+}
